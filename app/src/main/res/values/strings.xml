@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">RecyclerView_add_clubs</string>
+    <string name="add_club">Add Club</string>
+    <string name="add_clubs">Add Clubs</string>
+    <string name="remove">Remove</string>
+</resources>
